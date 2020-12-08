@@ -1,0 +1,48 @@
+normal
+------
+
+log_23_2020-7-11-00-11-26.ulg
+------------
+flight duration -- 07:32
+alt -- 8m
+
+
+log_22_2020-7-11-00-21-48.ulg
+-----------
+flight duration -- 08:33
+alt -- 15m
+
+
+log_24_2020-7-11-00-31-48.ulg
+-----------
+flight duration -- 08:08
+alt -- 30m
+
+
+log_23_2020-7-11-00-45-03.ulg
+-----------
+flight duration -- 10:32
+alt -- 10m
+
+
+
+
+abnormal
+----
+
+
+log_0_2020-7-20-11-51-50.ulg
+-------
+anomolies  --- sensorfault inject
+flight duration -- 07:32
+alt -- 20m
+
+
+log_0_2020-7-20-11-42-49.ulg
+-------
+anomolies  --- sensorfault inject
+flight duration -- 07:32
+alt -- 10m
+
+
+
