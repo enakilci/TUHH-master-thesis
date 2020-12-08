@@ -17,4 +17,5 @@ In the anomaly detection algorithm, prediction errors of the models on the train
 
 Finally, prediction error of the models on a test dataset containing normal and abnormal points is computed for evaluation of the models’ performance on anomaly detection. Comparison between the performance of the models is made in order to conclude the experiments. The results shows that LSTM-based models yields better performance on flagging detections in a given test dataset as compared with CNN-based models. However CNN-based models provides similar precision values with less computational power.
  
+ See masterarbeit_Emin_v3.pdf for the official thesis.
 
